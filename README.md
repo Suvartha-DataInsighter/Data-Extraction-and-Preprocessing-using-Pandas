@@ -1,2 +1,2 @@
 # My_DataSet-Exercises
-Applyied Statistical techniques on data to better Understanding of the dataset
+BY applying Statistical techniques on data to find some hidden patterns and providing better Insights
